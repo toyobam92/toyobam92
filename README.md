@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Toyosi!
 - 👀 I’m interested in Data Science, Analytics and Machine Learning
-- 🌱 I’m currently learning and developing my skillset in Deep Learning, Cloud Computing and Model deployment
+- 🌱 I’m currently learning and developing my skillset in Deep Learning, Cloud Computing and Model deployment and monitoring
 - 📫 How to reach me -> toyosibamidele@gmail.com
 
 <!---
